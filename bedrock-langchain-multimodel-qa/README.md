@@ -119,8 +119,9 @@ A `requirements.txt` file is included with the following dependencies:
 
 **To install the dependencies, run:**
 
-*    ```bash
-*    pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 **AWS Configuration:**
 
